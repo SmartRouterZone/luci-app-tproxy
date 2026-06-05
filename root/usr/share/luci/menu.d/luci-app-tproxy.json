@@ -1,0 +1,13 @@
+{
+	"admin/services/tproxy": {
+		"title": "TProxy",
+		"order": 60,
+		"action": {
+			"type": "view",
+			"path": "tproxy/settings"
+		},
+		"depends": {
+			"acl": [ "luci-app-tproxy" ]
+		}
+	}
+}

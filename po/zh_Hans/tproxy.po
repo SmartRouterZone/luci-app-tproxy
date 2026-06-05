@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci-app-tproxy\n"
+"PO-Revision-Date: 2026-06-05 17:30+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "TProxy"
+msgstr "透明代理"
+
+msgid "mihomo nftables TProxy configuration."
+msgstr "mihomo nftables TProxy 配置。"
+
+msgid "Service"
+msgstr "服务"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Kernel information"
+msgstr "内核信息"
+
+msgid "Kernel path"
+msgstr "内核路径"
+
+msgid "Version"
+msgstr "版本号"
+
+msgid "Unable to read kernel version"
+msgstr "无法读取内核版本"
+
+msgid "Unable to read kernel version: %s"
+msgstr "无法读取内核版本：%s"
+
+msgid "Running"
+msgstr "运行中"
+
+msgid "Stopped"
+msgstr "已停止"
+
+msgid "Policy routing"
+msgstr "策略路由"
+
+msgid "IPv4 policy routing"
+msgstr "IPv4 策略路由"
+
+msgid "IPv6 policy routing"
+msgstr "IPv6 策略路由"
+
+msgid "Firewall mark"
+msgstr "防火墙标记"
+
+msgid "Bypass mark"
+msgstr "绕过标记"
+
+msgid "IPv4 route table"
+msgstr "IPv4 路由表"
+
+msgid "IPv6 route table"
+msgstr "IPv6 路由表"
+
+msgid "IPv4 rule priority"
+msgstr "IPv4 规则优先级"
+
+msgid "IPv6 rule priority"
+msgstr "IPv6 规则优先级"
+
+msgid "Local route device"
+msgstr "本地路由设备"
+
+msgid "Firewall"
+msgstr "防火墙"
+
+msgid "General settings"
+msgstr "常规设置"
+
+msgid "Generated nft file"
+msgstr "生成的 nft 文件"
+
+msgid "TProxy port"
+msgstr "TProxy 端口"
+
+msgid "Interfaces"
+msgstr "接口"
+
+msgid "Listen interfaces"
+msgstr "监听接口(LAN接口)"
+
+msgid "Bypass interfaces"
+msgstr "绕过接口"
+
+msgid "Bypass ports"
+msgstr "绕过端口"
+
+msgid "Proxy ports"
+msgstr "代理端口"
+
+msgid "TCP ports"
+msgstr "TCP 端口"
+
+msgid "UDP ports"
+msgstr "UDP 端口"
+
+msgid "Proxy router output"
+msgstr "代理路由器本机出站流量"
+
+msgid "Bypass addresses"
+msgstr "绕过地址"
+
+msgid "Reserved IPv4"
+msgstr "IPv4 保留地址"
+
+msgid "Reserved IPv6"
+msgstr "IPv6 保留地址"
+
+msgid "Logs"
+msgstr "日志"
+
+msgid "No log entries."
+msgstr "暂无日志。"
+
+msgid "Failed to restart tproxy service: %s"
+msgstr "重启 tproxy 服务失败：%s"

@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci-app-tproxy\n"
+"PO-Revision-Date: 2026-06-05 17:30+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "TProxy"
+msgstr ""
+
+msgid "mihomo nftables TProxy configuration."
+msgstr ""
+
+msgid "Service"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Kernel information"
+msgstr ""
+
+msgid "Kernel path"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Unable to read kernel version"
+msgstr ""
+
+msgid "Unable to read kernel version: %s"
+msgstr ""
+
+msgid "Running"
+msgstr ""
+
+msgid "Stopped"
+msgstr ""
+
+msgid "Policy routing"
+msgstr ""
+
+msgid "IPv4 policy routing"
+msgstr ""
+
+msgid "IPv6 policy routing"
+msgstr ""
+
+msgid "Firewall mark"
+msgstr ""
+
+msgid "Bypass mark"
+msgstr ""
+
+msgid "IPv4 route table"
+msgstr ""
+
+msgid "IPv6 route table"
+msgstr ""
+
+msgid "IPv4 rule priority"
+msgstr ""
+
+msgid "IPv6 rule priority"
+msgstr ""
+
+msgid "Local route device"
+msgstr ""
+
+msgid "Firewall"
+msgstr ""
+
+msgid "General settings"
+msgstr ""
+
+msgid "Generated nft file"
+msgstr ""
+
+msgid "TProxy port"
+msgstr ""
+
+msgid "Interfaces"
+msgstr ""
+
+msgid "Listen interfaces"
+msgstr ""
+
+msgid "Bypass interfaces"
+msgstr ""
+
+msgid "Bypass ports"
+msgstr ""
+
+msgid "Proxy ports"
+msgstr ""
+
+msgid "TCP ports"
+msgstr ""
+
+msgid "UDP ports"
+msgstr ""
+
+msgid "Proxy router output"
+msgstr ""
+
+msgid "Bypass addresses"
+msgstr ""
+
+msgid "Reserved IPv4"
+msgstr ""
+
+msgid "Reserved IPv6"
+msgstr ""
+
+msgid "Logs"
+msgstr ""
+
+msgid "No log entries."
+msgstr ""
+
+msgid "Failed to restart tproxy service: %s"
+msgstr ""

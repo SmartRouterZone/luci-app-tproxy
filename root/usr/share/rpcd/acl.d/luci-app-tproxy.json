@@ -1,0 +1,17 @@
+{
+	"luci-app-tproxy": {
+		"description": "Grant access to LuCI TProxy configuration",
+		"read": {
+			"uci": [ "tproxy" ],
+			"file": {
+				"/etc/init.d/tproxy": [ "exec" ]
+			}
+		},
+		"write": {
+			"uci": [ "tproxy" ],
+			"file": {
+				"/etc/init.d/tproxy": [ "exec" ]
+			}
+		}
+	}
+}
