@@ -29,8 +29,8 @@ config tproxy 'main'
 	option bypass_ports '54321'
 	option loopback_iface 'lo'
 
-	option tcp_ports '80, 443, 853, 465, 587, 993, 995'
-	option udp_ports '80, 443, 853'
+	option tcp_ports '80, 443, 853, 465, 587, 993, 995, 8080'
+	option udp_ports '80, 443, 853, 8080'
 	option proxy_router_output '0'
 
 	option reserved_ipv4 '0.0.0.0/8, 127.0.0.0/8, 172.16.0.0/12, 169.254.0.0/16, 100.64.0.0/10, 10.0.0.0/8, 192.168.0.0/16, 224.0.0.0/4, 240.0.0.0/4, 255.255.255.255'
